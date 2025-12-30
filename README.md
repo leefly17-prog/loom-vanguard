@@ -193,17 +193,11 @@ mvn test -Dtest=PerformanceTest
 
 本项目采用 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt) 许可证。
 
-## 🙏 致谢
-
-- Java 21 虚拟线程（Project Loom）
-- 所有贡献者和使用者
-
 ## 📧 联系方式
 
 如有问题或建议，请通过以下方式联系：
 
 - 提交 [Issue](https://github.com/leefly17-prog/loom-vanguard/issues)
-- 发送邮件至：your.email@example.com
 
 ---
 
